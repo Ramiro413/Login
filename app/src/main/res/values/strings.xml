@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="text_accounts">Todas las cuentas</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_email">Correo</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="hint_confirm_password">Confirma contraseña</string>
+    <string name="text_login">Iniciar sesion</string>
+    <string name="text_register">Registrate</string>
+    <string name="error_message_name">Ingresa tu nombre completo</string>
+    <string name="error_message_email">Ingresa un correo valido</string>
+    <string name="error_message_age">Ingresa tu edad</string>
+    <string name="error_message_password">Ingresa tu contrsenia</string>
+    <string name="success_message">Listo, ahora estas registrado</string>
+    <string name="text_not_member">¿No tienes cuenta Aun? Crea una ahora</string>
+    <string name="text_already_member">¿Ya tienes cuenta? Inicia sesion ahora!</string>
+    <string name="error_email_exists">Ese correo ya esta en uso!</string>
+    <string name="error_password_match">Las contraseñas no coinciden!!</string>
+    <string name="error_valid_email_password">Revisa tus datos!! Algo anda mal</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="text_hello">Bienvenido</string>
+    <string name="text_title">Diseño de apps</string>
+</resources>
